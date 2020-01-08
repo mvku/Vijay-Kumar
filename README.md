@@ -1,6 +1,6 @@
 ## Welcome to Dr. Vijay Kumar Homepage
 
-Currently I am doing my Post-Doctoral Research in Hebrew University of Jerusamel and jointly working as a Visiting Scientist with [Prof. Victor Stenberg] (http://www.weizmann.ac.il/complex/steinberg/home) in Weizmann Institute of Science, Israel. 
+Currently I am doing my Post-Doctoral Research in Hebrew University of Jerusamel and jointly working as a Visiting Scientist with [Prof. Victor Stenberg](http://www.weizmann.ac.il/complex/steinberg/home) in Weizmann Institute of Science, Israel. 
 
 We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number)
 
