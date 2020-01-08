@@ -1,6 +1,6 @@
 ## Welcome to Dr. Vijay Kumar Homepage
 
-You can use the [editor on GitHub](https://github.com/mvijay1985/Vijay-Kumar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently I am doing my Post-Doctoral Research in Hebrew University of Jerusamel and jointly working as a Visiting Scientist with [Prof. Victor Stenberg] (http://www.weizmann.ac.il/complex/steinberg/home) in Weizmann Institute of Science, Israel. You can use the [editor on GitHub](https://github.com/mvijay1985/Vijay-Kumar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
