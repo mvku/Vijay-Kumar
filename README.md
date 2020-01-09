@@ -4,15 +4,15 @@ Currently I am doing my Post-Doctoral Research in Hebrew University of Jerusamel
 
 We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number) and [Weissenberg number](https://en.wikipedia.org/wiki/Alexis_Weissenberg)
 
-Research and Teaching interests
+### Research and Teaching interests
 Microfluidics and Nanofluidics, Particle dynamics in 3D Channels, nano-colloids/nanoparticles,
 phase transition in soft matter (self-assemblies of liquid crystals molecules, plastic crystals, polymers and gels), X-ray study on soft matter, Rheological study of hydrogel, biological systems, solid/liquid interface, surface treatment, polymer network, Polarizing Optical Microscopy, Image processing, nano-scale confinement study, polarizing optical microscopy, optical Switching, Electro optical study, X-ray, dielectric spectroscopy and calorimetric studies on soft matter.
 
-Scientific Skills
+### Scientific Skills
 Microfluidics device development and fabrications, soft lithography, etching, PDMS processing, Optical devices, LCD devices, Lasers and optoelectronics, polarizing optical microscopy, Optical
 manipulations, Xray techniques, Oscillatory rheological techniques, Surface treatment, polymer alignment, ITO electrode pattern formation, surface treatment, nanoparticles composite preparations, image processing, dielectric spectroscopy measurements, x-ray techniques and Electronics and Electrical Circuit Designing and, Instrumentation. 
 
-Computer Skills
+### Computer Skills
 Language & Software: Matlab, Python and Lab view, C, C++, Visual Basic, Quick Basic,
 Operating System: Microsoft Windows, and DOS and Linux
 
