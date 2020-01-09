@@ -1,4 +1,4 @@
-## Welcome to Dr. Vijay Kumar Homepage
+# Welcome to Dr. Vijay Kumar Homepage 
 
 Currently I am doing my Post-Doctoral Research in Hebrew University of Jerusalem and jointly working as a Visiting Scientist with [Prof. Victor Stenberg](http://www.weizmann.ac.il/complex/steinberg/home) in Weizmann Institute of Science, Israel. 
 
@@ -84,6 +84,8 @@ Conference Centre, Arts Block, Trinity College Dublin, Dublin 2, Ireland.
 
 [Vijay](https://github.com/mvijay1985/Vijay-Kumar/edit/master/VijayKumar_CV.pdf)
 You can use the [editor on GitHub](https://github.com/mvijay1985/Vijay-Kumar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
