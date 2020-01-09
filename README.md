@@ -1,4 +1,4 @@
-# Welcome to Dr. Vijay Kumar Homepage 
+### Welcome to Dr. Vijay Kumar Homepage 
 
 Currently I am doing my Post-Doctoral Research in Hebrew University of Jerusalem and jointly working as a Visiting Scientist with [Prof. Victor Stenberg](http://www.weizmann.ac.il/complex/steinberg/home) in Weizmann Institute of Science, Israel. 
 
@@ -65,21 +65,21 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 
 
 ### National and International Conference/Seminar attended
-1.	One-day Inter–Collegiate Seminar on “Electronic Communication” on 11.2.2003, Department of Physics, V. V. Vannniperumal College for Women, Virudhunagar-626001, Tamilnadu, India.
+1.	**"One-day Inter–Collegiate Seminar on “Electronic Communication”** on 11.2.2003, Department of Physics, V. V. Vannniperumal College for Women, Virudhunagar-626001, Tamilnadu, India.
 
-2.	11th National Seminar on Crystal Growth (with International Participation), during December 7-9, 2006, SSN College of Engineering, SSN Nagar, Kalavakkam - 603110, Chennai, Tamilnadu, India.
+2.	**11th National Seminar on Crystal Growth (with International Participation)**, during December 7-9, 2006, SSN College of Engineering, SSN Nagar, Kalavakkam - 603110, Chennai, Tamilnadu, India.
 
-3.	2nd National Symposium on Non-Linear Optical Crystals and Modeling in Crystal Growth during March 26-27, 2007. Department of Physics, Anna University, Chennai-600025, Tamilnadu, India.
+3.	**2nd National Symposium on Non-Linear Optical Crystals and Modeling in Crystal Growth** during March 26-27, 2007. Department of Physics, Anna University, Chennai-600025, Tamilnadu, India.
 
-4.	17th National Conference on Liquid Crystals during 15-17 November, 2010, Department of Chemistry, VeerNarmad South Gujarat University, Surat-395007, Gujarat, India.
+4.	**17th National Conference on Liquid Crystals** during 15-17 November, 2010, Department of Chemistry, VeerNarmad South Gujarat University, Surat-395007, Gujarat, India.
 
-5.	18th National Conference on Liquid Crystals during 15-17 November, 2011, Department of Physics, North Eastern Regional Institute of Science & Technology, Itanagarat-791109, Arunachalpradesh, India.
+5.	**18th National Conference on Liquid Crystals** during 15-17 November, 2011, Department of Physics, North Eastern Regional Institute of Science & Technology, Itanagarat-791109, Arunachalpradesh, India.
 
-6.	IUPAC–Sponsored International Symposium on Macro-And Supramolecular Architechures and Materials: Nano System and Applications, Organized by Centre for Nano Science and Technology K.S. Rangasamy College of Technology,Thrichencode-637 215, Tamilnadu, India.
+6.	**IUPAC–Sponsored International Symposium on Macro-And Supramolecular Architechures and Materials: Nano System and Applications**, Organized by Centre for Nano Science and Technology K.S. Rangasamy College of Technology,Thrichencode-637 215, Tamilnadu, India.
 
-7.	21th National Conference on Liquid Crystals during 10-12 November, 2014, Vikramajit Singh Sanatan Dharm (VSSD) College, Chhatrapati Shahu Ji Maharaj University, Kanpur, India.
+7.	**21th National Conference on Liquid Crystals** during 10-12 November, 2014, Vikramajit Singh Sanatan Dharm (VSSD) College, Chhatrapati Shahu Ji Maharaj University, Kanpur, India.
 
-8.	25th International Liquid Crystal Conference ILCC2014 29 June -4 July 2014
+8.	**25th International Liquid Crystal Conference ILCC2014** 29 June -4 July 2014
 Conference Centre, Arts Block, Trinity College Dublin, Dublin 2, Ireland.
 
 [Vijay](https://github.com/mvijay1985/Vijay-Kumar/edit/master/VijayKumar_CV.pdf)
