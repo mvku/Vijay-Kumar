@@ -23,6 +23,7 @@ Microsoft Windows, and DOS and Linux
 * Single Particle Tracking 
 
 # Python:
+[Anaconda Python/R Distribution](https://www.anaconda.com/distribution/)
 * Scientific Computing
 * Data analytics
 * Text processing
