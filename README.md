@@ -12,11 +12,27 @@ phase transition in soft matter (self-assemblies of liquid crystals molecules, p
 Microfluidics device development and fabrications, soft lithography, etching, PDMS processing, Optical devices, LCD devices, Lasers and optoelectronics, polarizing optical microscopy, Optical
 manipulations, Xray techniques, Oscillatory rheological techniques, Surface treatment, polymer alignment, ITO electrode pattern formation, surface treatment, nanoparticles composite preparations, image processing, dielectric spectroscopy measurements, x-ray techniques and Electronics and Electrical Circuit Designing and, Instrumentation. 
 
-### Computer Skills
-### Language & Software: 
-Matlab, Python and Lab view, C, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno)
 ### Operating System:
 Microsoft Windows, and DOS and Linux
+
+### Computer Skills
+### Language & Software: 
+# Matlab:
+* Particle Image Velocimetry
+* Fluorescence Particle Tracking
+* Single Particle Tracking 
+# Python:
+* Scientific Computing
+* Data analytics
+* Text processing
+* Automation
+# Lab view: 
+* Data Acquisition
+* Interfacing and Communication
+* High Speed Image acquisition
+# Other Program 
+C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno)
+
 
 ### Scientific Research Publications (14)
 1.	M. Vijay Kumar, R. Bhargavi, G. G. Nair and S. Krishna Prasad, Manuscript in preparation, 2019.
