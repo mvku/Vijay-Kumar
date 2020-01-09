@@ -15,25 +15,21 @@ manipulations, Xray techniques, Oscillatory rheological techniques, Surface trea
 ### Operating System:
 Microsoft Windows, and DOS and Linux
 
-### Computer Skills
-### Language & Software: 
+### Computer Skills (Language & Software)
 # Matlab:
 * Particle Image Velocimetry
 * Fluorescence Particle Tracking
 * Single Particle Tracking 
-
 # Python:
 [Anaconda Python/R Distribution](https://www.anaconda.com/distribution/)
 * Scientific Computing
 * Data analytics
 * Text processing
 * Automation
-
 # Lab view: 
 * Data Acquisition
 * Interfacing and Communication
 * High Speed Image acquisition
-
 # Other Program 
 C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno)
 
