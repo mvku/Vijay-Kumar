@@ -12,10 +12,12 @@ phase transition in soft matter (self-assemblies of liquid crystals molecules, p
 Microfluidics device development and fabrications, soft lithography, etching, PDMS processing, Optical devices, LCD devices, Lasers and optoelectronics, polarizing optical microscopy, Optical
 manipulations, Xray techniques, Oscillatory rheological techniques, Surface treatment, polymer alignment, ITO electrode pattern formation, surface treatment, nanoparticles composite preparations, image processing, dielectric spectroscopy measurements, x-ray techniques and Electronics and Electrical Circuit Designing and, Instrumentation. 
 
-### Operating System:
-Microsoft Windows, and DOS and Linux
 
-### Computer Skills (Language & Software)
+### Computer Skills
+# Operating System:
+Microsoft Windows, and DOS and Linux
+ 
+Language & Software
 # Matlab:
 * Particle Image Velocimetry
 * Fluorescence Particle Tracking
