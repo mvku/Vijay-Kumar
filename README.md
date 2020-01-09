@@ -31,7 +31,7 @@ Microsoft Windows, and DOS and Linux
 * Interfacing and Communication
 * High Speed Image acquisition
 # Other Program 
-C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno)
+C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno)
 
 
 ### Scientific Research Publications (14)
