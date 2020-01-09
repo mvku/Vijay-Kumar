@@ -3,7 +3,7 @@
 Currently I am doing my **Post-Doctoral Research in Hebrew University of Jerusalem** and jointly working as a **Visiting Scientist** with [Prof. Victor Stenberg](http://www.weizmann.ac.il/complex/steinberg/home) in **Weizmann Institute of Science, Israel**. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number) and [Weissenberg number](https://en.wikipedia.org/wiki/Alexis_Weissenberg)
 
 Previously I was working as a **Post-Doctoral Researcher in IIT Madras, Tamil Nadu, India** with [Prof. Ragunathan Rangasamy](https://che.iitm.ac.in/~senai/) in the field of **Microfluidics (Producing drug particles with core-shell morphology for
-Pharmaceutical applications)** and [Dr. Reddy's Lab, Hydrabad](https://www.drreddys.com/)
+Pharmaceutical applications)** industrial colloborative with [Dr. Reddy's Lab, Hydrabad](https://www.drreddys.com/)
 
 After my PhD, I joined as **Post-Doctoral researcher in University of Gothenberg, Sweden** with [Prof. Dag Hanstorp](https://www.physics.gu.se/english/about-the-department/staff?userId=xhanda), Where I working on Microfluidics to study the particle dynamics in low [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number). This project is colloborated with Theortical group [Prof. Bernhard Mehlig](https://www.physics.gu.se/english/about-the-department/staff?userId=xmehbe) 
 
