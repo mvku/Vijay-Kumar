@@ -21,16 +21,19 @@ Microsoft Windows, and DOS and Linux
 * Particle Image Velocimetry
 * Fluorescence Particle Tracking
 * Single Particle Tracking 
-## Python:
+
+# Python:
 * Scientific Computing
 * Data analytics
 * Text processing
 * Automation
-### Lab view: 
+
+# Lab view: 
 * Data Acquisition
 * Interfacing and Communication
 * High Speed Image acquisition
-#### Other Program 
+
+# Other Program 
 C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno)
 
 
