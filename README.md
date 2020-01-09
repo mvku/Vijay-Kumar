@@ -4,6 +4,12 @@ Currently I am doing my Post-Doctoral Research in Hebrew University of Jerusalem
 
 We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number) and [Weissenberg number](https://en.wikipedia.org/wiki/Alexis_Weissenberg)
 
+Previously I was working as a Post-Doctoral Researcher in IIT Madras with [Prof. Ragunathan Rangasamy](https://che.iitm.ac.in/~senai/) in the field of **Microfluidics (Producing drug particles with core-shell morphology for
+Pharmaceutical applications)** and [Dr. Reddy's Lab, Hydrabad](https://www.drreddys.com/)
+
+After my PhD, I joined as Post-Doctoral researcher in University of Gothenberg, Sweden with [Prof. Dag Hanstorp](https://www.physics.gu.se/english/about-the-department/staff?userId=xhanda), Where I working on Microfluidics to study the particle dynamics in low [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number). This project is colloborated with Theortical group [Prof. Bernhard Mehlig](https://www.physics.gu.se/english/about-the-department/staff?userId=xmehbe) 
+
+
 ### Research and Teaching interests
 Microfluidics and Nanofluidics, Particle dynamics in 3D Channels, nano-colloids/nanoparticles,
 phase transition in soft matter (self-assemblies of liquid crystals molecules, plastic crystals, polymers and gels), X-ray study on soft matter, Rheological study of hydrogel, biological systems, solid/liquid interface, surface treatment, polymer network, Polarizing Optical Microscopy, Image processing, nano-scale confinement study, polarizing optical microscopy, optical Switching, Electro optical study, X-ray, dielectric spectroscopy and calorimetric studies on soft matter.
