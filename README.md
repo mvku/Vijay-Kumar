@@ -1,13 +1,13 @@
 # Welcome to Dr. Vijay Kumar Homepage 
 <p style='text-align: justify;'>
-Currently I am doing my **Post-Doctoral Research in Hebrew University of Jerusalem** and jointly working as a **Visiting Scientist** with <a href="http://www.weizmann.ac.il/complex/steinberg/home"> Prof. Victor Steinberg.</a>  in **Weizmann Institute of Science, Israel**. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll <a href="(https://en.wikipedia.org/wiki/Reynolds_number"> Reynolds number</a>) and <a href="https://en.wikipedia.org/wiki/Alexis_Weissenberg> Weissenberg number</a> </p>
+Currently I am doing my **Post-Doctoral Research in Hebrew University of Jerusalem** and jointly working as a **Visiting Scientist** with <a href="http://www.weizmann.ac.il/complex/steinberg/home"> Prof. Victor Steinberg.</a>  in **Weizmann Institute of Science, Israel**. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll <a href="(https://en.wikipedia.org/wiki/Reynolds_number"> Reynolds number</a>) and <a href="https://en.wikipedia.org/wiki/Alexis_Weissenberg"> Weissenberg number</a> </p>
 
 <p style='text-align: justify;'>
 Previously I was working as a **Post-Doctoral Researcher in IIT Madras, Tamil Nadu, India** with <a href="https://che.iitm.ac.in/~senai/"> Prof. Ragunathan Rangasamy</a> in the field of **Microfluidics (Producing drug particles with core-shell morphology for
-Pharmaceutical applications)** industrial colloborative with [Dr. Reddy's Lab, Hydrabad](https://www.drreddys.com/) </p>
+Pharmaceutical applications)** industrial colloborative with <a href="https://www.drreddys.com/"> Dr. Reddy's Lab, Hydrabad </a> </p>
 
 <p style='text-align: justify;'>
-After my PhD, I joined as **Post-Doctoral researcher in University of Gothenberg, Sweden** with [Prof. Dag Hanstorp](https://www.physics.gu.se/english/about-the-department/staff?userId=xhanda), Where I working on Microfluidics to study the particle dynamics in low [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number). This project is colloborated with Theortical group [Prof. Bernhard Mehlig](https://www.physics.gu.se/english/about-the-department/staff?userId=xmehbe) </p>
+After my PhD, I joined as **Post-Doctoral researcher in University of Gothenberg, Sweden** with <a href="https://www.physics.gu.se/english/about-the-department/staff?userId=xhanda"> Prof. Dag Hanstorp </a>, Where I working on Microfluidics to study the particle dynamics in low [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number). This project is colloborated with Theortical group [Prof. Bernhard Mehlig](https://www.physics.gu.se/english/about-the-department/staff?userId=xmehbe) </p>
 
 
 ## Research and Teaching interests
@@ -25,17 +25,18 @@ Microfluidics device development and fabrications, soft lithography, etching, PD
 Microsoft Windows, and DOS and Linux
  
 ### Language & Software
-#### Matlab:
+
+#### Matlab
 * Particle Image Velocimetry
 * Fluorescence Particle Tracking
 * Single Particle Tracking 
-#### Python:
+#### Python
 [Anaconda Python/R Distribution](https://www.anaconda.com/distribution/)
 * Scientific Computing
 * Data analytics
 * Text processing
 * Automation
-#### Lab view: 
+#### Lab view
 * Data Acquisition
 * Interfacing and Communication
 * High Speed Image acquisition
