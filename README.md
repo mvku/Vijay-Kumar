@@ -26,21 +26,21 @@ Microsoft Windows, and DOS and Linux
  
 ### Language & Software
 
-#### Matlab
+Matlab
 * Particle Image Velocimetry
 * Fluorescence Particle Tracking
 * Single Particle Tracking 
-#### Python
+Python
 [Anaconda Python/R Distribution](https://www.anaconda.com/distribution/)
 * Scientific Computing
 * Data analytics
 * Text processing
 * Automation
-#### Lab view
+Lab view
 * Data Acquisition
 * Interfacing and Communication
 * High Speed Image acquisition
-#### Other Program 
+Other Program 
 C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno)
 
  
