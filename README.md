@@ -14,8 +14,9 @@ Microfluidics and Nanofluidics, Particle dynamics in 3D Channels, nano-colloids/
 phase transition in soft matter (self-assemblies of liquid crystals molecules, plastic crystals, polymers and gels), X-ray study on soft matter, Rheological study of hydrogel, biological systems, solid/liquid interface, surface treatment, polymer network, Polarizing Optical Microscopy, Image processing, nano-scale confinement study, polarizing optical microscopy, optical Switching, Electro optical study, X-ray, dielectric spectroscopy and calorimetric studies on soft matter. </p>
 
 ## Scientific Skills
+<p style='text-align: justify;'> 
 Microfluidics device development and fabrications, soft lithography, etching, PDMS processing, Optical devices, LCD devices, Lasers and optoelectronics, polarizing optical microscopy, Optical
-manipulations, Xray techniques, Oscillatory rheological techniques, Surface treatment, polymer alignment, ITO electrode pattern formation, surface treatment, nanoparticles composite preparations, image processing, dielectric spectroscopy measurements, x-ray techniques and Electronics and Electrical Circuit Designing and, Instrumentation. 
+manipulations, Xray techniques, Oscillatory rheological techniques, Surface treatment, polymer alignment, ITO electrode pattern formation, surface treatment, nanoparticles composite preparations, image processing, dielectric spectroscopy measurements, x-ray techniques and Electronics and Electrical Circuit Designing and, Instrumentation. </p>
 
 
 ## Computer Skills
@@ -40,7 +41,7 @@ Microsoft Windows, and DOS and Linux
 #### Other Program 
 C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno)
 
-
+<p style='text-align: justify;'> 
 ## Scientific Research Publications (14)
 1.	M. Vijay Kumar, R. Bhargavi, G. G. Nair and S. Krishna Prasad, Manuscript in preparation, 2019.
 
@@ -127,3 +128,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</p>
