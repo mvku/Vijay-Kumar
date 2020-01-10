@@ -1,11 +1,13 @@
 # Welcome to Dr. Vijay Kumar Homepage 
+<p style='text-align: justify;'>
+Currently I am doing my **Post-Doctoral Research in Hebrew University of Jerusalem** and jointly working as a **Visiting Scientist** with [Prof. Victor Stenberg](http://www.weizmann.ac.il/complex/steinberg/home) in **Weizmann Institute of Science, Israel**. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number) and [Weissenberg number](https://en.wikipedia.org/wiki/Alexis_Weissenberg)</p>
 
-Currently I am doing my **Post-Doctoral Research in Hebrew University of Jerusalem** and jointly working as a **Visiting Scientist** with [Prof. Victor Stenberg](http://www.weizmann.ac.il/complex/steinberg/home) in **Weizmann Institute of Science, Israel**. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number) and [Weissenberg number](https://en.wikipedia.org/wiki/Alexis_Weissenberg)
-
+<p style='text-align: justify;'>
 Previously I was working as a **Post-Doctoral Researcher in IIT Madras, Tamil Nadu, India** with [Prof. Ragunathan Rangasamy](https://che.iitm.ac.in/~senai/) in the field of **Microfluidics (Producing drug particles with core-shell morphology for
-Pharmaceutical applications)** industrial colloborative with [Dr. Reddy's Lab, Hydrabad](https://www.drreddys.com/)
+Pharmaceutical applications)** industrial colloborative with [Dr. Reddy's Lab, Hydrabad](https://www.drreddys.com/) </p>
 
-After my PhD, I joined as **Post-Doctoral researcher in University of Gothenberg, Sweden** with [Prof. Dag Hanstorp](https://www.physics.gu.se/english/about-the-department/staff?userId=xhanda), Where I working on Microfluidics to study the particle dynamics in low [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number). This project is colloborated with Theortical group [Prof. Bernhard Mehlig](https://www.physics.gu.se/english/about-the-department/staff?userId=xmehbe) 
+<p style='text-align: justify;'>
+After my PhD, I joined as **Post-Doctoral researcher in University of Gothenberg, Sweden** with [Prof. Dag Hanstorp](https://www.physics.gu.se/english/about-the-department/staff?userId=xhanda), Where I working on Microfluidics to study the particle dynamics in low [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number). This project is colloborated with Theortical group [Prof. Bernhard Mehlig](https://www.physics.gu.se/english/about-the-department/staff?userId=xmehbe) </p>
 
 
 ## Research and Teaching interests
@@ -15,8 +17,7 @@ phase transition in soft matter (self-assemblies of liquid crystals molecules, p
 
 ## Scientific Skills
 <p style='text-align: justify;'> 
-Microfluidics device development and fabrications, soft lithography, etching, PDMS processing, Optical devices, LCD devices, Lasers and optoelectronics, polarizing optical microscopy, Optical
-manipulations, Xray techniques, Oscillatory rheological techniques, Surface treatment, polymer alignment, ITO electrode pattern formation, surface treatment, nanoparticles composite preparations, image processing, dielectric spectroscopy measurements, x-ray techniques and Electronics and Electrical Circuit Designing and, Instrumentation. </p>
+Microfluidics device development and fabrications, soft lithography, etching, PDMS processing, Optical devices, LCD devices, Lasers and optoelectronics, polarizing optical microscopy, Optical manipulations, Xray techniques, Oscillatory rheological techniques, Surface treatment, polymer alignment, ITO electrode pattern formation, surface treatment, nanoparticles composite preparations, image processing, dielectric spectroscopy measurements, x-ray techniques and Electronics and Electrical Circuit Designing and, Instrumentation. </p>
 
 
 ## Computer Skills
@@ -41,7 +42,7 @@ Microsoft Windows, and DOS and Linux
 #### Other Program 
 C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno)
 
-<p style='text-align: justify;'> 
+ 
 ## Scientific Research Publications (14)
 1.	M. Vijay Kumar, R. Bhargavi, G. G. Nair and S. Krishna Prasad, Manuscript in preparation, 2019.
 
@@ -128,4 +129,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-</p>
+
