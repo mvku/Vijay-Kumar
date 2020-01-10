@@ -1,4 +1,4 @@
-### Welcome to Dr. Vijay Kumar Homepage 
+# Welcome to Dr. Vijay Kumar Homepage 
 
 Currently I am doing my **Post-Doctoral Research in Hebrew University of Jerusalem** and jointly working as a **Visiting Scientist** with [Prof. Victor Stenberg](http://www.weizmann.ac.il/complex/steinberg/home) in **Weizmann Institute of Science, Israel**. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number) and [Weissenberg number](https://en.wikipedia.org/wiki/Alexis_Weissenberg)
 
@@ -8,39 +8,39 @@ Pharmaceutical applications)** industrial colloborative with [Dr. Reddy's Lab, H
 After my PhD, I joined as **Post-Doctoral researcher in University of Gothenberg, Sweden** with [Prof. Dag Hanstorp](https://www.physics.gu.se/english/about-the-department/staff?userId=xhanda), Where I working on Microfluidics to study the particle dynamics in low [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number). This project is colloborated with Theortical group [Prof. Bernhard Mehlig](https://www.physics.gu.se/english/about-the-department/staff?userId=xmehbe) 
 
 
-### Research and Teaching interests
+## Research and Teaching interests
 Microfluidics and Nanofluidics, Particle dynamics in 3D Channels, nano-colloids/nanoparticles,
 phase transition in soft matter (self-assemblies of liquid crystals molecules, plastic crystals, polymers and gels), X-ray study on soft matter, Rheological study of hydrogel, biological systems, solid/liquid interface, surface treatment, polymer network, Polarizing Optical Microscopy, Image processing, nano-scale confinement study, polarizing optical microscopy, optical Switching, Electro optical study, X-ray, dielectric spectroscopy and calorimetric studies on soft matter.
 
-### Scientific Skills
+## Scientific Skills
 Microfluidics device development and fabrications, soft lithography, etching, PDMS processing, Optical devices, LCD devices, Lasers and optoelectronics, polarizing optical microscopy, Optical
 manipulations, Xray techniques, Oscillatory rheological techniques, Surface treatment, polymer alignment, ITO electrode pattern formation, surface treatment, nanoparticles composite preparations, image processing, dielectric spectroscopy measurements, x-ray techniques and Electronics and Electrical Circuit Designing and, Instrumentation. 
 
 
-### Computer Skills
-# Operating System:
+## Computer Skills
+### Operating System:
 Microsoft Windows, and DOS and Linux
  
 ### Language & Software
-# Matlab:
+#### Matlab:
 * Particle Image Velocimetry
 * Fluorescence Particle Tracking
 * Single Particle Tracking 
-# Python:
+#### Python:
 [Anaconda Python/R Distribution](https://www.anaconda.com/distribution/)
 * Scientific Computing
 * Data analytics
 * Text processing
 * Automation
-# Lab view: 
+#### Lab view: 
 * Data Acquisition
 * Interfacing and Communication
 * High Speed Image acquisition
-# Other Program 
+#### Other Program 
 C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno)
 
 
-### Scientific Research Publications (14)
+## Scientific Research Publications (14)
 1.	M. Vijay Kumar, R. Bhargavi, G. G. Nair and S. Krishna Prasad, Manuscript in preparation, 2019.
 
 2.	J. Fries, M. Vijay Kumar, B. Mekonnen Mihiretie, D. Hanstorp, B. Mehlig, Spinning and tumbling of micron-sized triangles in a micro-channel shear flow, Phys. Fluids, 2018, 30, 033304.
@@ -70,7 +70,7 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 14.	M. Vijay Kumar, S. Krishna Prasad, and D. S. Shankar Rao, Confinement-Driven Weakening of the Rotator Phase Transitions in an Alkane through a Possible Tricritical Point, Langmuir, 2010, 26, 18362–18368.
 
 
-### National and International Conference/Seminar attended
+## National and International Conference/Seminar attended
 1.	**"One-day Inter–Collegiate Seminar on “Electronic Communication”** on 11.2.2003, Department of Physics, V. V. Vannniperumal College for Women, Virudhunagar-626001, Tamilnadu, India.
 
 2.	**11th National Seminar on Crystal Growth (with International Participation)**, during December 7-9, 2006, SSN College of Engineering, SSN Nagar, Kalavakkam - 603110, Chennai, Tamilnadu, India.
@@ -95,7 +95,7 @@ You can use the [editor on GitHub](https://github.com/mvijay1985/Vijay-Kumar/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
