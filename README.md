@@ -1,6 +1,6 @@
 # Welcome to Dr. Vijay Kumar Homepage 
 <p style='text-align: justify;'>
-Currently I am doing my **Post-Doctoral Research in Hebrew University of Jerusalem** and jointly working as a **Visiting Scientist** with [Prof. Victor Stenberg](http://www.weizmann.ac.il/complex/steinberg/home) in **Weizmann Institute of Science, Israel**. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number) and [Weissenberg number](https://en.wikipedia.org/wiki/Alexis_Weissenberg)</p>
+Currently I am doing my **Post-Doctoral Research in Hebrew University of Jerusalem** and jointly working as a **Visiting Scientist** with [Prof. Victor Stenberg](http://www.weizmann.ac.il/complex/steinberg/home) in **Weizmann Institute of Science, Israel**. <a href="http://www.weizmann.ac.il/complex/steinberg/home"> Prof. Victor Steinberg.</a> We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number) and [Weissenberg number](https://en.wikipedia.org/wiki/Alexis_Weissenberg)</p>
 
 <p style='text-align: justify;'>
 Previously I was working as a **Post-Doctoral Researcher in IIT Madras, Tamil Nadu, India** with [Prof. Ragunathan Rangasamy](https://che.iitm.ac.in/~senai/) in the field of **Microfluidics (Producing drug particles with core-shell morphology for
