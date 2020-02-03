@@ -7,7 +7,7 @@ Previously I was working as a <bold>Post-Doctoral Researcher in IIT Madras, Tami
 Pharmaceutical applications)** industrial colloborative with <a href="https://www.drreddys.com/"> Dr. Reddy's Lab, Hydrabad </a> </p>
 
 <p style='text-align: justify;'>
-After my PhD, I joined as **Post-Doctoral researcher in University of Gothenberg, Sweden** with <a href="https://www.physics.gu.se/english/about-the-department/staff?userId=xhanda"> Prof. Dag Hanstorp </a>, Where I working on Microfluidics to study the particle dynamics in low [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number). This project is colloborated with Theortical group [Prof. Bernhard Mehlig](https://www.physics.gu.se/english/about-the-department/staff?userId=xmehbe) </p>
+After my PhD, I joined as **Post-Doctoral researcher in University of Gothenberg, Sweden** with <a href="https://www.physics.gu.se/english/about-the-department/staff?userId=xhanda"> Prof. Dag Hanstorp </a>, Where I working on Microfluidics to study the particle dynamics in low <a href="https://en.wikipedia.org/wiki/Reynolds_number"> Reynolds number</a>. This project is colloborated with Theortical group [Prof. Bernhard Mehlig](https://www.physics.gu.se/english/about-the-department/staff?userId=xmehbe) </p>
 
 
 ## Research and Teaching interests
