@@ -1,4 +1,4 @@
-# Welcome to Dr. Vijay Kumar Homepage 
+# Welcome to [Dr. Vijay Kumar](https://github.com/mvijay1985/Vijay-Kumar/edit/master/VijayKumar_CV.pdf) Homepage 
 <p style='text-align: justify;'>
 Currently I am doing my <bold>Post-Doctoral Research in Hebrew University of Jerusalem</bold> and jointly working as a <bold>Visiting Scientist</bold> with <a href="http://www.weizmann.ac.il/complex/steinberg/home"> Prof. Victor Steinberg.</a>  in <bold>Weizmann Institute of Science, Israel</bold>. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll <a href="(https://en.wikipedia.org/wiki/Reynolds_number"> Reynolds number</a>) and <a href="https://en.wikipedia.org/wiki/Alexis_Weissenberg"> Weissenberg number</a> </p>
 
@@ -91,8 +91,8 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 8.	**25th International Liquid Crystal Conference ILCC2014** 29 June -4 July 2014
 Conference Centre, Arts Block, Trinity College Dublin, Dublin 2, Ireland.
 
-[Vijay](https://github.com/mvijay1985/Vijay-Kumar/edit/master/VijayKumar_CV.pdf)
-You can use the [editor on GitHub](https://github.com/mvijay1985/Vijay-Kumar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+
 
 
 
