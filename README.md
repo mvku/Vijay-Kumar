@@ -86,7 +86,7 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 
  
 ## Scientific Research Publications (14)
-1.	M. Vijay Kumar, R. Bhargavi, G. G. Nair and S. Krishna Prasad, Manuscript in preparation, 2019.
+1.	M. Vijay Kumar, R. Bhargavi, G. G. Nair and S. Krishna Prasad, Manuscript in preparation.
 
 2.	J. Fries, M. Vijay Kumar, B. Mekonnen Mihiretie, D. Hanstorp, B. Mehlig, Spinning and tumbling of micron-sized triangles in a micro-channel shear flow, Phys. Fluids, 2018, 30, 033304.
 
