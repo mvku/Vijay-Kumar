@@ -45,6 +45,7 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 
  
 ## Scientific Research Publications (14)
+<p style='text-align: justify;'>
 1.	M. Vijay Kumar, R. Bhargavi, G. G. Nair and S. Krishna Prasad, Manuscript in preparation.
 
 2.	J. Fries, M. Vijay Kumar, B. Mekonnen Mihiretie, D. Hanstorp, B. Mehlig, Spinning and tumbling of micron-sized triangles in a micro-channel shear flow, Phys. Fluids, 2018, 30, 033304.
@@ -72,9 +73,10 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 13.	M. Vijay Kumar and S. Krishna Prasad, influence of quenched disorder created by nanosilica network on phase transitions in tetracosane, RSC Advances, 2012, 2, 8531–8538.
 
 14.	M. Vijay Kumar, S. Krishna Prasad, and D. S. Shankar Rao, Confinement-Driven Weakening of the Rotator Phase Transitions in an Alkane through a Possible Tricritical Point, Langmuir, 2010, 26, 18362–18368.
-
+</p>
 
 ## National and International Conference/Seminar attended
+<p style='text-align: justify;'>
 1.	**"One-day Inter–Collegiate Seminar on “Electronic Communication”** on 11.2.2003, Department of Physics, V. V. Vannniperumal College for Women, Virudhunagar-626001, Tamilnadu, India.
 
 2.	**11th National Seminar on Crystal Growth (with International Participation)**, during December 7-9, 2006, SSN College of Engineering, SSN Nagar, Kalavakkam - 603110, Chennai, Tamilnadu, India.
@@ -91,7 +93,7 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 
 8.	**25th International Liquid Crystal Conference ILCC2014** 29 June -4 July 2014
 Conference Centre, Arts Block, Trinity College Dublin, Dublin 2, Ireland.
-
+</p>
 
 
 
