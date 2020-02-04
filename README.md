@@ -27,7 +27,6 @@ li a:hover {
 </style>
 </head>
 <body>
-
 <ul>
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#Research Area">Research Area</a></li>
@@ -35,12 +34,11 @@ li a:hover {
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
-
 </body>
 </html>
 
 
-# Welcome to [Dr. Vijay Kumar](https://github.com/mvijay1985/Vijay-Kumar/edit/master/VijayKumar_CV.pdf) Homepage 
+# Welcome to [Dr. Vijay Kumar](VijayKumar_CV.pdf) Homepage 
 <p style='text-align: justify;'>
 Currently I am doing my <bold>Post-Doctoral Research in Hebrew University of Jerusalem</bold> and jointly working as a <bold>Visiting Scientist</bold> with <a href="http://www.weizmann.ac.il/complex/steinberg/home"> Prof. Victor Steinberg.</a>  in <bold>Weizmann Institute of Science, Israel</bold>. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll <a href="https://en.wikipedia.org/wiki/Reynolds_number"> Reynolds number</a> and <a href="https://en.wikipedia.org/wiki/Alexis_Weissenberg"> Weissenberg number</a> </p>
 
