@@ -1,21 +1,3 @@
-<html>
-<html>
-<style>
-div {
-    height: 400px;
-    background: linear-gradient(to right, #33ccff 0%, #0066cc 85%)
-}
-</style>
-<body>
-<section class="page-header">
-      <h1 class="project-name">Vijay-Kumar</h1>
-      <h2 class="project-tagline">My Research activities </h2>
-</section>
-<div></div>
-
-</body>
-</html>
-
 # Welcome to [Dr. Vijay Kumar](VijayKumar_CV.pdf) Homepage 
 <p style='text-align: justify;'>
 Currently I am doing my <bold>Post-Doctoral Research in Hebrew University of Jerusalem</bold> and jointly working as a <bold>Visiting Scientist</bold> with <a href="http://www.weizmann.ac.il/complex/steinberg/home"> Prof. Victor Steinberg.</a>  in <bold>Weizmann Institute of Science, Israel</bold>. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll <a href="https://en.wikipedia.org/wiki/Reynolds_number"> Reynolds number</a> and <a href="https://en.wikipedia.org/wiki/Alexis_Weissenberg"> Weissenberg number</a> </p>
