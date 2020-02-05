@@ -25,17 +25,20 @@ Microfluidics device development and fabrications, soft lithography, etching, PD
 # Operating System:
 Microsoft Windows, and DOS and Linux
  
-# Language & Software
+## Language & Software
 # Matlab
 * Particle Image Velocimetry
 * Fluorescence Particle Tracking
 * Single Particle Tracking 
+----------------------------------
+
 # Python
 [Anaconda Python/R Distribution](https://www.anaconda.com/distribution/)
 * Scientific Computing
 * Data analytics
 * Text processing
 * Automation
+----------------------------------
 # Lab view
 * Data Acquisition
 * Interfacing and Communication
