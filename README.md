@@ -29,7 +29,14 @@ Microsoft Windows, and DOS and Linux
 
 ## Documentation 
 * Mircosoft Word, Excel and Notepad etc
-* [LaTex](https://www.latex-project.org/)
+* [LaTex](https://www.latex-project.org/)  
+ `$z = x + y$`.
+
+`$$a^2 + b^2 = c^2$$`
+
+`$$\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc$$`
 
 -----------------------------------
 
