@@ -22,29 +22,29 @@ Microfluidics device development and fabrications, soft lithography, etching, PD
 
 
 ## Computer Skills
-### Operating System:
+# Operating System:
 Microsoft Windows, and DOS and Linux
  
-### Language & Software
-#### Matlab
+# Language & Software
+# Matlab
 * Particle Image Velocimetry
 * Fluorescence Particle Tracking
 * Single Particle Tracking 
-#### Python
+# Python
 [Anaconda Python/R Distribution](https://www.anaconda.com/distribution/)
 * Scientific Computing
 * Data analytics
 * Text processing
 * Automation
-#### Lab view
+# Lab view
 * Data Acquisition
 * Interfacing and Communication
 * High Speed Image acquisition
-#### Other Program 
+# Other Program 
 C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno)
 
  
-## Scientific Research Publications (14)
+# Scientific Research Publications (14)
 
 1.	M. Vijay Kumar, R. Bhargavi, G. G. Nair and S. Krishna Prasad, Manuscript in preparation.
 
