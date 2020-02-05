@@ -1,14 +1,17 @@
-<!DOCTYPE html>
+<html>
 <html>
 <style>
 div {
     height: 400px;
-    background: linear-gradient(to right, #33ccff 0%, #ff99cc 85%)
+    background: linear-gradient(to right, #33ccff 0%, #0066cc 85%)
 }
 </style>
 <body>
-
-<div> <h> Vijay Kumar</h> </div>
+<section class="page-header">
+      <h1 class="project-name">Vijay-Kumar</h1>
+      <h2 class="project-tagline">My Research activities </h2>
+</section>
+<div></div>
 
 </body>
 </html>
