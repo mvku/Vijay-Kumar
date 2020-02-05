@@ -1,13 +1,13 @@
 # Welcome to [Dr. Vijay Kumar](VijayKumar_CV.pdf) Homepage 
 <p style='text-align: justify;'>
-Currently I am doing my <bold>Post-Doctoral Research in Hebrew University of Jerusalem</bold> and jointly working as a <bold>Visiting Scientist</bold> with <a href="http://www.weizmann.ac.il/complex/steinberg/home"target="_blank"> Prof. Victor Steinberg.</a>  in <bold>Weizmann Institute of Science, Israel</bold>. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll <a href="https://en.wikipedia.org/wiki/Reynolds_number"target="_blank"> Reynolds number</a> and <a href="https://en.wikipedia.org/wiki/Alexis_Weissenberg"target="_blank"> Weissenberg number</a> </p>
+Currently I am doing my <bold>Post-Doctoral Research in Hebrew University of Jerusalem</bold> and jointly working as a <bold>Visiting Scientist</bold> with <a href="http://www.weizmann.ac.il/complex/steinberg/home"> Prof. Victor Steinberg.</a>  in <bold>Weizmann Institute of Science, Israel</bold>. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll <a href="https://en.wikipedia.org/wiki/Reynolds_number"> Reynolds number</a> and <a href="https://en.wikipedia.org/wiki/Alexis_Weissenberg"> Weissenberg number</a> </p>
 
 <p style='text-align: justify;'>
-Previously I was working as a <bold>Post-Doctoral Researcher in IIT Madras, Tamil Nadu, India</bold> with <a href="https://che.iitm.ac.in/~senai/"target="_blank"> Prof. Ragunathan Rangasamy</a> in the field of Microfluidics (Producing drug particles with core-shell morphology for
-Pharmaceutical applications) industrial colloborative with <a href="https://www.drreddys.com/"target="_blank"> Dr. Reddy's Lab, Hydrabad </a> </p>
+Previously I was working as a <bold>Post-Doctoral Researcher in IIT Madras, Tamil Nadu, India</bold> with <a href="https://che.iitm.ac.in/~senai/"> Prof. Ragunathan Rangasamy</a> in the field of Microfluidics (Producing drug particles with core-shell morphology for
+Pharmaceutical applications) industrial colloborative with <a href="https://www.drreddys.com/"> Dr. Reddy's Lab, Hydrabad </a> </p>
 
 <p style='text-align: justify;'>
-After my PhD, I joined as Post-Doctoral researcher in University of Gothenberg, Sweden with <a href="https://www.physics.gu.se/english/about-the-department/staff?userId=xhanda"target="_blank"> Prof. Dag Hanstorp </a>, Where I working on Microfluidics to study the particle dynamics in low <a href="https://en.wikipedia.org/wiki/Reynolds_number"target="_blank"> Reynolds number </a>. This project is colloborated with Theortical group <a href="https://www.physics.gu.se/english/about-the-department/staff?userId=xmehbe"target="_blank"> Prof. Bernhard Mehlig </a> </p>
+After my PhD, I joined as Post-Doctoral researcher in University of Gothenberg, Sweden with <a href="https://www.physics.gu.se/english/about-the-department/staff?userId=xhanda"> Prof. Dag Hanstorp </a>, Where I working on Microfluidics to study the particle dynamics in low <a href="https://en.wikipedia.org/wiki/Reynolds_number"> Reynolds number </a>. This project is colloborated with Theortical group <a href="https://www.physics.gu.se/english/about-the-department/staff?userId=xmehbe"> Prof. Bernhard Mehlig </a> </p>
 
 
 ## Research and Teaching interests
@@ -62,7 +62,7 @@ Microsoft Windows, and DOS and Linux
 
 ----------------------------------
 ### Other Program 
-C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno)
+C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno){:target="_blank"}
 
 ----------------------------------
  
