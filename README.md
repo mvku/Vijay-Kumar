@@ -24,12 +24,28 @@ Microfluidics device development and fabrications, soft lithography, etching, PD
 ## Computer Skills
 ### Operating System:
 Microsoft Windows, and DOS and Linux
+
+------------------------------------
+
+## Documentation 
+* Mircosoft Word, Excel and Notepad etc
+* [LaTex](https://www.latex-project.org/)
+
+-----------------------------------
+
+## web design and development 
+* HTML, CSS, 
+* Java Script
+* Server Side
+
+----------------------------------
  
 ## Language & Software
 ### Matlab
 * Particle Image Velocimetry
 * Fluorescence Particle Tracking
 * Single Particle Tracking 
+
 ----------------------------------
 
 ### Python
