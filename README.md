@@ -33,7 +33,7 @@ Microsoft Windows, and DOS and Linux
 
 -----------------------------------
 
-## web design and development 
+## Web Design & Development 
 * HTML, CSS, 
 * Java Script
 * Server Side
@@ -42,7 +42,7 @@ Microsoft Windows, and DOS and Linux
  
 ## Language & Software
 ### Matlab
-* Particle Image Velocimetry
+* Particle Image Velocimetry (PIV)
 * Fluorescence Particle Tracking
 * Single Particle Tracking 
 
@@ -50,7 +50,7 @@ Microsoft Windows, and DOS and Linux
 
 ### Python
 [Anaconda Python/R Distribution](https://www.anaconda.com/distribution/)
-* Scientific Computing
+* Scientific Computing (Spyder, Jupyter & Qt Console)
 * Data analytics
 * Text processing
 * Automation
