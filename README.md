@@ -53,6 +53,8 @@ Microsoft Windows, and DOS and Linux
 * Data analytics
 * Text processing
 * Automation
+* Data Science
+* Machine Learning
 
 ----------------------------------
 ### Lab view
