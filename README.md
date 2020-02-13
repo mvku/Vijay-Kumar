@@ -6,7 +6,9 @@
 	<div align="center">
 		<a href="resources/cv.pdf" target="_blank"><strong>Curriculum Vitae</strong></a><br>
 		PhD: CeNS Bangalore<br>
-		PostDoc: Weizmann Institute of Science, Israel, IIT Madras, and University of Gothenberg, Sweden<br>
+		PostDoc-1: Weizmann Institute of Science, Israel,<br> 
+		PostDoc-2: IIT Madras, Tamilnadu, India <br>
+		PostDoc-3: University of Gothenberg, Sweden<br>
 		Provisional Research Associate: CeNS, Bangalore <br>
 		
 	</div>
