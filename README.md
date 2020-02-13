@@ -1,6 +1,6 @@
 # Welcome to [Dr. Vijay Kumar](VijayKumar_CV.pdf) Homepage 
 <html lang="en">
-  <head>
+ <body>
 <div class="row">
   <div class="col-md-3">
     <img src="images/vijay_pic.png" align="center" width="215" height="220" alt="Vijay Kumar"><br><br><br>
@@ -14,7 +14,7 @@
 		
 	</div>
   </div>
-  </head>
+  </body>
  </html> 
  
 <p style='text-align: justify;'>
