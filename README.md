@@ -1,4 +1,17 @@
 # Welcome to [Dr. Vijay Kumar](VijayKumar_CV.pdf) Homepage 
+
+<div class="row">
+  <div class="col-md-3">
+    <img src="images/vijay_pic.png" align="center" width="215" height="220" alt="Vijay Kumar"><br><br><br>
+	<div align="center">
+		<a href="resources/cv.pdf" target="_blank"><strong>Curriculum Vitae</strong></a><br>
+		PhD: CeNS Bangalore<br>
+		PostDoc: Weizmann Institute of Science, Israel, IIT Madras, and University of Gothenberg, Sweden<br>
+		Provisional Research Associate: CeNS, Bangalore <br>
+		
+	</div>
+  </div>
+  
 <p style='text-align: justify;'>
 Currently I am doing my <bold>Post-Doctoral Research in Hebrew University of Jerusalem</bold> and jointly working as a <bold>Visiting Scientist</bold> with <a href="http://www.weizmann.ac.il/complex/steinberg/home"> Prof. Victor Steinberg.</a>  in <bold>Weizmann Institute of Science, Israel</bold>. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll <a href="https://en.wikipedia.org/wiki/Reynolds_number"> Reynolds number</a> and <a href="https://en.wikipedia.org/wiki/Alexis_Weissenberg"> Weissenberg number</a> </p>
 
