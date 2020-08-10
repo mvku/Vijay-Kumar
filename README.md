@@ -2,7 +2,7 @@
 
 		PhD: CeNS Bangalore
 		Visiting Scientist: Weizmann Institute of Science, Israel,
-		PostDoc-1: The HEbrew University of Jerusalem, Israel,
+		PostDoc-1: The Hebrew University of Jerusalem, Israel,
 		PostDoc-2: IIT Madras, Tamilnadu, India 
 		PostDoc-3: University of Gothenberg, Sweden
 		Research Asscoiate: CeNS Bangalore, India
