@@ -78,33 +78,33 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
  
 ## Scientific Research Publications (14)
 
-1.	M. Vijay Kumar, R. Bhargavi, G. G. Nair and S. Krishna Prasad, Manuscript in preparation.
+1.	**M. Vijay Kumar**, R. Bhargavi, G. G. Nair and S. Krishna Prasad, Manuscript in preparation.
 
 2.	J. Fries, M. Vijay Kumar, B. Mekonnen Mihiretie, D. Hanstorp, B. Mehlig, Spinning and tumbling of micron-sized triangles in a micro-channel shear flow, Phys. Fluids, 2018, 30, 033304.
 
-3.	M. Vijay Kumar, S. Krishna Prasad, Y. Marinov, L. Todorova, A.G.Petrov, Flexo-Dielectro-Optical Spectroscopy as a Method of Studying Nanostructured Nematic Liquid Crystals. Mol. Cryst. Liq. Cryst.,2015, 610, 51–62.
+3.	**M. Vijay Kumar**, S. Krishna Prasad, Y. Marinov, L. Todorova, A.G.Petrov, Flexo-Dielectro-Optical Spectroscopy as a Method of Studying Nanostructured Nematic Liquid Crystals. Mol. Cryst. Liq. Cryst.,2015, 610, 51–62.
 
-4.	Bhavesh K, M. Vijay Kumar, C.V. Yelamaggad and S. Krishna Prasad, Enhancement of electrical conductivity of a liquid crystal-gold nanoparticle composite by a gel network of aerosil particles, Appl. Phys. Lett.2015, 083110-5.
+4.	Bhavesh K, **M. Vijay Kumar**, C.V. Yelamaggad and S. Krishna Prasad, Enhancement of electrical conductivity of a liquid crystal-gold nanoparticle composite by a gel network of aerosil particles, Appl. Phys. Lett.2015, 083110-5.
 
-5.	M. Vijay Kumar, S. Krishna Prasad, D.S. Shankar Rao and P.K. Mukherjee, Competition between anisometric and aliphatic entities: Induction of a new phase in a n-alkane –liquid crystal binary system, Langmuir, 2014, 30, 4465–4473.
+5.	**M. Vijay Kumar**, S. Krishna Prasad, D.S. Shankar Rao and P.K. Mukherjee, Competition between anisometric and aliphatic entities: Induction of a new phase in a n-alkane –liquid crystal binary system, Langmuir, 2014, 30, 4465–4473.
 
-6.	S. Krishna Prasad, M. Vijay Kumar, T. Shilpa and C. V. Yelamaggad Enhancement of electrical conductivity, dielectric anisotropy and director relaxation frequency in composites of gold nanoparticle and a weakly polar nematic liquid crystal, RSC Adv., 2014, 4, 4453-4462.
+6.	S. Krishna Prasad, **M. Vijay Kumar**, T. Shilpa and C. V. Yelamaggad Enhancement of electrical conductivity, dielectric anisotropy and director relaxation frequency in composites of gold nanoparticle and a weakly polar nematic liquid crystal, RSC Adv., 2014, 4, 4453-4462.
 
-7.	D.S. Shankar Rao, M. Vijay Kumar, S. Krishna Prasad, Uma S. Hiremath, M. Sarvamangalaand S. Basavaraja, Novel columnar–calamitic phase sequences in a binary system of bent-core and rod-like mesogens, J. Mater. Chem. C, 2013, 1, 7488–7497.
+7.	D.S. Shankar Rao, **M. Vijay Kumar**, S. Krishna Prasad, Uma S. Hiremath, M. Sarvamangalaand S. Basavaraja, Novel columnar–calamitic phase sequences in a binary system of bent-core and rod-like mesogens, J. Mater. Chem. C, 2013, 1, 7488–7497.
 
-8.	K. S. Krishnamurthy, Pramoda Kumar and M. Vijay Kumar, Polarity-sensitive transient patterned state in a twisted nematic liquid crystal driven by very low frequency fields, Phys.Rev. E.,2013, 87, 022504-11.
+8.	K. S. Krishnamurthy, Pramoda Kumar and **M. Vijay Kumar**, Polarity-sensitive transient patterned state in a twisted nematic liquid crystal driven by very low frequency fields, Phys.Rev. E.,2013, 87, 022504-11.
 
-9.	S. Krishna Prasad, M. Vijay Kumar, C.V. Yelamaggad, Dual frequency conductivity switching in a carbon nanotube/liquid crystal composite, Carbon, 2013, 59, 512-517.
+9.	S. Krishna Prasad, **M. Vijay Kumar**, C.V. Yelamaggad, Dual frequency conductivity switching in a carbon nanotube/liquid crystal composite, Carbon, 2013, 59, 512-517.
 
-10.	M. Vijay Kumar, S. Krishna Prasad, Composites of single walled carbon nanotubes and liquid crystals as switchable conductors, NPCM, 2013, 4, 425–429.
+10.	**M. Vijay Kumar**, S. Krishna Prasad, Composites of single walled carbon nanotubes and liquid crystals as switchable conductors, NPCM, 2013, 4, 425–429.
 
-11.	M. Vijay Kumar, S. Krishna Prasad, D.S. Shankar Rao & E.P. Pozhidaev Confinement driven effects in a room temperature ferroelectric liquid crystal: X-ray, linear and non-linear dielectric investigations, Phase Transitions, 2013, 86, 323–338.
+11.	**M. Vijay Kumar**, S. Krishna Prasad, D.S. Shankar Rao & E.P. Pozhidaev Confinement driven effects in a room temperature ferroelectric liquid crystal: X-ray, linear and non-linear dielectric investigations, Phase Transitions, 2013, 86, 323–338.
 
-12.	M. Sarvamangala, M. Vijay Kumar, S.M. Khened, S.Basavaraja , D.S. Shankar Rao & S. Krishna Prasad, Anomalous dielectric behavior in the nematic and isotropic phases of a strongly polar–weakly polar binary system, Phase Transitions, 2013,86, 454–462.
+12.	M. Sarvamangala, **M. Vijay Kumar**, S.M. Khened, S.Basavaraja , D.S. Shankar Rao & S. Krishna Prasad, Anomalous dielectric behavior in the nematic and isotropic phases of a strongly polar–weakly polar binary system, Phase Transitions, 2013,86, 454–462.
 
-13.	M. Vijay Kumar and S. Krishna Prasad, influence of quenched disorder created by nanosilica network on phase transitions in tetracosane, RSC Advances, 2012, 2, 8531–8538.
+13.	**M. Vijay Kumar** and S. Krishna Prasad, influence of quenched disorder created by nanosilica network on phase transitions in tetracosane, RSC Advances, 2012, 2, 8531–8538.
 
-14.	M. Vijay Kumar, S. Krishna Prasad, and D. S. Shankar Rao, Confinement-Driven Weakening of the Rotator Phase Transitions in an Alkane through a Possible Tricritical Point, Langmuir, 2010, 26, 18362–18368.
+14.	**M. Vijay Kumar**, S. Krishna Prasad, and D. S. Shankar Rao, Confinement-Driven Weakening of the Rotator Phase Transitions in an Alkane through a Possible Tricritical Point, Langmuir, 2010, 26, 18362–18368.
 
 
 ## National and International Conference/Seminar attended
