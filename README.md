@@ -1,6 +1,7 @@
 # Welcome to [Dr. Vijay Kumar](VijayKumar_CV.pdf) Homepage 
 
 		PhD: CeNS Bangalore
+		Research Scientist, University of Illinois, Chicago, USA
 		Visiting Scientist: Weizmann Institute of Science, Israel,
 		PostDoc-1: The Hebrew University of Jerusalem, Israel,
 		PostDoc-2: IIT Madras, Tamilnadu, India 
