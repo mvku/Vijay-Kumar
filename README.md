@@ -18,7 +18,7 @@ Pharmaceutical applications) industrial colloborative with <a href="https://www.
 <p style='text-align: justify;'>
 After my PhD, I joined as Post-Doctoral researcher in University of Gothenberg, Sweden with <a href="https://www.physics.gu.se/english/about-the-department/staff?userId=xhanda"> Prof. Dag Hanstorp </a>, Where I working on Microfluidics to study the particle dynamics in low <a href="https://en.wikipedia.org/wiki/Reynolds_number"> Reynolds number </a>. This project is colloborated with Theortical group <a href="https://www.physics.gu.se/english/about-the-department/staff?userId=xmehbe"> Prof. Bernhard Mehlig </a> </p>
 
-[![Particle dynamics in Newtonian Fluid](https://github.com/mvku/Dr.-Vijay-Kumar/blob/master/videos/tri.mp4)
+[![Particle dynamics in Newtonian Fluid](https://github.com/mvku/Dr.-Vijay-Kumar/blob/master/tri.mp4)
 ## Research and Teaching interests
 <p style='text-align: justify;'> 
 Microfluidics and Nanofluidics, Particle dynamics in 3D Channels, nano-colloids/nanoparticles,
