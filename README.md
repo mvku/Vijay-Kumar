@@ -8,6 +8,8 @@
 		PostDoc-3: University of Gothenberg, Sweden
 		Research Asscoiate: CeNS Bangalore, India
 
+<iframe width="769" height="476" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSg2GudQXDqUcQ_Y2Kh5zY_-asNDYTwyEstqp3ts1LX-fyOcVx7Qd5ffhu5M4RwkW1tHY3HIOObbRDy/pubchart?oid=710922597&amp;format=interactive"></iframe>
+
 <p style='text-align: justify;'>
 Currently I am doing my <bold>Post-Doctoral Research in Hebrew University of Jerusalem</bold> and jointly working as a <bold>Visiting Scientist</bold> with <a href="http://www.weizmann.ac.il/complex/steinberg/home"> Prof. Victor Steinberg.</a>  in <bold>Weizmann Institute of Science, Israel</bold>. We are studying fluid dynamics to see the intability on Non-Newtonian fluid/Visco-elastic fluid. The elastic instability is observed even in very samll <a href="https://en.wikipedia.org/wiki/Reynolds_number"> Reynolds number</a> and <a href="https://en.wikipedia.org/wiki/Alexis_Weissenberg"> Weissenberg number</a> </p>
 
